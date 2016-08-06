@@ -21,13 +21,13 @@ Since College, I've been working as a Java developer for over a year and a half,
 
 ## Professional
 
-Summer 2014: I worked at Fideliy Investments in Boston, working as an Intern Java developer on a scrum team. The work involved heavy usage of Spring Web MVC framework, Apache Maven, and Java / Javascript. While I was there, I was able to create a RESTful service, capable of displaying the status of different parts of the project.
+Summer 2014: Fideliy Investments - Java developer. Spring Web MVC framework, Apache Maven, and Java / Javascript.
 
-September 2014 - Summer 2015: I worked at a local startup company in Providence, working as a Web developer. I was able to get a large amount of experience in Javascript, Bootstrap, Node.js, Ajax, Umbraco, and JQuery, while gaining knowledge on the best practices of web development.
+September 2014 - Summer 2015: Startup Company - Web developer. Javascript, Bootstrap, Node.js, Ajax, Umbraco, and JQuery.
 
-Summer 2015- Current: I'm currently working at Raytheon, first in Rhode Island, now in Massachusetts. I've been working primarily in Java. I've also been able to gain a large amount of Unix experience as well. I have been a member of a Scrumban team and a Waterfall team.
+Summer 2015- Current: Raytheon - Java developer. Java, Unix.
 
-Summer 2016: As a side project, I've been developing websites for local companies in Django.  I'm using this as a way for me to be able to apply my experience with Javascript and Bootstrap, and hopefully progress towards a Python or Web development career.
+Summer 2016: Side Project -  Python/Django Web development.  Javascript, Bootstrap, Python, Django
 
 
 ## Personal
@@ -43,6 +43,6 @@ I like to take on a lot of personal projects. I like to think that you can make 
 
 My most recent project started as an idea that I wanted to shut off the lights, but I didn't want to get up. This led me down a rabbit hole of learning the Raspberry Pi, Apache Web Server, Android Development, and a whole slew of new Unix commands.
 
-
+You can hear about more of my side projects by heading over to the <a href="{{ site.url }}/projects">Projects</a> section.
 
 
