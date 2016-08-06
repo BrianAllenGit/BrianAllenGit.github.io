@@ -10,7 +10,13 @@ comments: false
 
 I've lived in New England my entire life, and I'm currently in New Hampshire. I'm currently fully invested in learning Python and Django, while simultaneously expanding my skills in Java. I've worked in both a waterfall and scrum environment, and I've touched every part of the software development life cycle.
 
-My programming life all started in 10th grade, when I had the opportunity to take a Visual Basic course. I was hooked. Throughout high school, I jumped around between Visual Basic and small basic, before landing on Java just before College. During College, I worked with a number of languages, primarily C, C++, and Java.  I took two internships, one as a Java developer, and one as a Web developer. Since College, I've been working as a Java developer for over a year and a half, and have been working on Web Development in my spare time.
+My programming life all started in 10th grade, when I had the opportunity to take a Visual Basic course. 
+
+I was hooked. Throughout high school, I jumped around between Visual Basic and small basic, before landing on Java just before College. 
+
+During College, I worked with a number of languages, primarily C, C++, and Java.  I took two internships, one as a Java developer, and one as a Web developer. 
+
+Since College, I've been working as a Java developer for over a year and a half, and have been working on Web Development in my spare time.
 
 
 ## Professional
