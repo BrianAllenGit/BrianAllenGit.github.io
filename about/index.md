@@ -39,7 +39,7 @@ I like to take on a lot of personal projects. I like to think that you can make 
     https://media.giphy.com/media/v5Z40Lvb6rplu/giphy.gif
 	https://media.giphy.com/media/keCZcgJ8FuPGE/giphy.gif
 {% endcapture %}
-{% include gallery images=images caption="Making an app to control the lights" cols=2 %}
+{% include gallery images=images caption="Making an app to control the lights" cols=3 %}
 
 My most recent project started as an idea that I wanted to shut off the lights, but I didn't want to get up. This led me down a rabbit hole of learning the Raspberry Pi, Apache Web Server, Android Development, and a whole slew of new Unix commands.
 
