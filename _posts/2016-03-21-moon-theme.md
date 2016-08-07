@@ -2,7 +2,7 @@
 layout: post
 title:  "Controlling the appliances"
 date:   2016-04-06
-excerpt: "Using Raspberry Pi, Android, PHP, and Apache Webserver to save electricity."
+excerpt: "Using Raspberry Pi, PHP, and Apache Webserver to save electricity."
 project: true
 ---
 
@@ -10,9 +10,7 @@ project: true
 {% capture images %}
 	https://media.giphy.com/media/keCZcgJ8FuPGE/giphy.gif
 {% endcapture %}
-{% include gallery images=images caption="Finished Product" cols=1 %}
-
-<center><a href="https://github.com/BrianAllenGit/HandsFreeLightsOff">Github</a> website code repo.</center>
+{% include gallery images=images caption="Finished Product <a href="https://github.com/BrianAllenGit/HandsFreeLightsOff">Github</a> website code repo." cols=1 %}
    
 ## The Problem
 With electricity being costly (and me feeling lazy when I'm watching a good movie), I needed a way to shut off the lights from my couch or while I'm out and about. I needed a way to check if my lights were on as well.
